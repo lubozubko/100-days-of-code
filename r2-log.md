@@ -9,3 +9,6 @@ Started The Complete Javascript Course 2020 from @jonasschmedtmann on Udemy. Com
 
 ### R2D2
 
+Finished up to lecture 14 in **Section 2** of the course. Gone through introduction to JS, variables and data types, variable mutation and type coercion, basic operators, operator precedence, if / else statemenets and first coding challenge.
+
+### R2D3
